@@ -26,15 +26,15 @@ Students should aim to resolve questions during class hours. However, the instru
 
 Topics and details subject to change.
 
-| #  |  Date  | Topic | Resources | Project Milestones |
+| #  |  Date  | Topic | Resources | Milestones |
 |----|--------|-------|-----------|--------------------|
-| 01 | 22 Jan | Introduction | <ul><li>Course introduction</li><li>[Software installation and environment setup](docs/start.md)</li><li>Introduction to Python, Part I</li></ul>| [Team Project Proposal](https://goo.gl/forms/84062ci1ZG4f38C93): **Due Fri 25 Jan** |
+| 01 | 22 Jan | Introduction to Python, Part I | <ul><li>Course introduction</li><li>[Software installation and environment setup](docs/start.md)</li><li>[Introduction to Python, Part I](week01/session01.ipynb)</li></ul>| [Team Project Proposal](https://goo.gl/forms/84062ci1ZG4f38C93): **Due Fri 25 Jan**<br/>[Problem Set 01](week01/pset01.ipynb): **Due Tue 29 Jan** |
 | 02 | 29 Jan | Introduction to Python, Part II | | |
 | 03 | 12 Feb | Cleaning and proessing data using Pandas | | |
-| 04 | 19 Feb | Using APIs to retrieve information | | Basic backend component (data retrieval/processing) completed |
+| 04 | 19 Feb | Using APIs to retrieve information | | Basic backend component (data retrieval/processing) of project completed |
 | 05 | 26 Feb | Web Design 101 (HTML, CSS, JavaScript) | | |
 | 06 | 12 Mar | Data visualisation | | |
-| 07 | 19 Mar | Software layout and user experience | | Basic frontend component (data visualisation, user interactions) completed |
+| 07 | 19 Mar | Software layout and user experience | | Basic frontend component (data visualisation, user interactions) of project completed |
 | 08 | 26 Mar | Web scraping | | |
 | 09 | 2 Apr  | Additional topic 1| | |
 | 20 | TBD    | Additional topic 2 | | Project submission |
