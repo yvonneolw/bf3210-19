@@ -37,8 +37,9 @@ Topics and details subject to change.
 | 07 | 19 Mar | Software layout and user experience | | Basic frontend component (data visualisation, user interactions) of project completed |
 | 08 | 26 Mar | Web scraping | | |
 | 09 | 2 Apr  | Additional topic 1| | |
-| 20 | TBD    | Additional topic 2 | | Project submission |
+| 10 | TBD    | Additional topic 2 | | Project submission |
 
 ## Links
 
 * [Team Project Proposal](https://goo.gl/forms/84062ci1ZG4f38C93): **Due 25 Jan**
+* [Installation and Setup](docs/start.md)
