@@ -14,7 +14,7 @@ In this class, we will use [Sourcetree](https://www.sourcetreeapp.com/), which i
 * [Version control and Sourcetree](https://confluence.atlassian.com/get-started-with-sourcetree/version-control-and-sourcetree-847359072.html)
 * [Work using Git](https://confluence.atlassian.com/get-started-with-sourcetree/work-using-git-847359053.html)
 
-Now let's test it out by cloning the repository that contains this document. Click `New...` and choose `Clone from URL`. Then use [git@github.com:codegakko/bf3210-19.git](git@github.com:codegakko/bf3210-19.git) as the URL. Was Sourcetree able to read the contents of the repository?
+Now let's test it out by cloning the repository that contains this document. Click `New...` and choose `Clone from URL`. Then use [https://github.com/CodeGakko/bf3210-19.git](https://github.com/CodeGakko/bf3210-19.git) as the URL. Was Sourcetree able to read the contents of the repository?
 
 In the future, `pull` this repository using SourceTree to get the latest course materials each week.
 
