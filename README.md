@@ -43,3 +43,4 @@ Topics and details subject to change.
 
 * [Team Project Proposal](https://goo.gl/forms/84062ci1ZG4f38C93): **Due 25 Jan**
 * [Installation and Setup](docs/start.md)
+* [Python 3 Documentation](https://docs.python.org/3/)
